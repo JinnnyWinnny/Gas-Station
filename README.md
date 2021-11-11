@@ -36,7 +36,7 @@ The goal of this project is to make a simulation that enables to sell items/gas 
 
 <h2 align="center">Links</h2>
 
-Write up documentation: [here](resource/writeup.doc)
+Write up documentation: [here](resource/writeup.docx)
 
 
 
