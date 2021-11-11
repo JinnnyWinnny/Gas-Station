@@ -1,0 +1,5 @@
+Price List
+Water: 1.25
+Cigarettes: 4.50
+Coke: 0.75
+Cheetos: 1.25
